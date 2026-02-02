@@ -1,0 +1,23 @@
+Privacy Policy — Stash Browser Extension
+
+Last updated: 2 February 2025
+
+Stash is a visual clipboard tool that captures images from web pages and saves them locally on your Mac via the Stash macOS companion app.
+
+Data Collection
+Stash does not collect, transmit, or store any personal data. No information is sent to external servers. All captured images and metadata (page URL, page title) are sent exclusively to the local Stash macOS app via Chrome native messaging and stored on your device.
+
+Data Sharing
+Stash does not share any data with third parties.
+
+Analytics and Tracking
+Stash does not include any analytics, telemetry, or tracking.
+
+Cookies
+Stash does not use cookies.
+
+Local Storage
+The extension stores debug diagnostic snapshots in Chrome's local storage for troubleshooting purposes. This data never leaves your browser.
+
+Contact
+For questions about this policy, open an issue at https://github.com/krissolling/stash-releases/issues
