@@ -6,12 +6,27 @@
         <description>Stash app updates</description>
         <language>en</language>
         <item>
+            <title>1.0.6</title>
+            <pubDate>Thu, 19 Feb 2026 20:05:11 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.6/Stash-1.0.6.zip" length="174294841" type="application/octet-stream" sparkle:edSignature="TyO/QVl0y5fjI2prv+jfaY9BglQoD12nHPOn8llYhi5MBWwQ3NqFCOIPTAEhqFezsFkUBuQMeN5NuP3RUawfCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.6/Stash7-6.delta" sparkle:deltaFrom="6" length="964250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UhOdlXcTsmbxhGXTVg9ngRwKGtMDRUvqF1qR1hHqr77HcHHNVD9R2azmTWEmrP9UrsnvoDlL0/CGvZUUDV0RDg=="/>
+                <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.6/Stash7-5.delta" sparkle:deltaFrom="5" length="976914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="czRW3esMx2ZxbdB201m+KBawV4NAoEzxuztowCvfLUhwsulExV7B1094t5RC/a2k3lle+wL97jj9FIjoYQ4KBg=="/>
+                <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.6/Stash7-4.delta" sparkle:deltaFrom="4" length="978058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P5LiMHwYe3tqRsJ5rC4/bUJ2z6qwyYHo0XP8ft9t9SfBDmuiAbQe1O4aMICfI+CSR93aYOiKR9KNJXg5+k0GAg=="/>
+                <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.6/Stash7-3.delta" sparkle:deltaFrom="3" length="1048554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="u0Nx9KKBKDTNc+kZ15zGEoO2l0f0RSuHVoZk3nH0nZjLqHpTPkaGU23GDXlJJip2AMi5nKI/ofZ8SaxhteyiAw=="/>
+                <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.6/Stash7-2.delta" sparkle:deltaFrom="2" length="1048778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="42/RY2ScbGP5m+pEk5B4CNplBBQUpplqJW2eol6zeIBjaekkCm/feu4Z74APD/ITaBunR0SS9X9M1YtH5IbJBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.5</title>
             <pubDate>Thu, 19 Feb 2026 18:00:21 +0000</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.5/Stash-1.0.5.zip" length="174195774" type="application/octet-stream" sparkle:edSignature="z/GHRR70G2jEBfbw3TO+FUdZfHWXA7xs8zujoZtQIaEKyEgtuPMP9UtdGGyHLdfMx+4hnsSYUi4Ng3itAtXNAA=="/>
+            <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.6/Stash-1.0.5.zip" length="174195774" type="application/octet-stream" sparkle:edSignature="z/GHRR70G2jEBfbw3TO+FUdZfHWXA7xs8zujoZtQIaEKyEgtuPMP9UtdGGyHLdfMx+4hnsSYUi4Ng3itAtXNAA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.5/Stash6-5.delta" sparkle:deltaFrom="5" length="538298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Hpnr34Vnktr6wgjweqB0jR3kLmh2x08i/GNPMvznockDnRJu67lQELKTcZDJTLOzOOxdFzakYTCpV27tN2J5AA=="/>
                 <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.5/Stash6-4.delta" sparkle:deltaFrom="4" length="556150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OeoC3H4uC/vsHgav6cvGeKY9w+TSoOUcQzkhvSJBNPm/E+tBh39AAxR/p7W8xvNbblMx9h5iczAJfQhlI9e3Bw=="/>
@@ -26,25 +41,12 @@
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.5/Stash-1.0.4.zip" length="174190330" type="application/octet-stream" sparkle:edSignature="VXFY+gtAuaI8xyqv8VKtzwpVsH6vmmmxy9Nto/oww1s2oG0smJK5zYFq0wLUWIlxhpZhYXj7gDxJlouTU/GBDg=="/>
+            <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.6/Stash-1.0.4.zip" length="174190330" type="application/octet-stream" sparkle:edSignature="VXFY+gtAuaI8xyqv8VKtzwpVsH6vmmmxy9Nto/oww1s2oG0smJK5zYFq0wLUWIlxhpZhYXj7gDxJlouTU/GBDg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.4/Stash5-4.delta" sparkle:deltaFrom="4" length="347054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1su6sLAlBE2tupUIFIpNQSncIi8pPAl2eG3WjKcSLUCDCxo61hxZxKlHj/zWZ+SfwIohsw/c3+IyWkiYCVX2DA=="/>
                 <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.4/Stash5-3.delta" sparkle:deltaFrom="3" length="682302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/l9fFwPiHhwkChS9C6hPr2kCnVKAEBebRpkGsMUzX+a/BeQO0gP91aENl/TLxqALTTQmSPEstGsc+3hPs6i+BA=="/>
                 <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.4/Stash5-2.delta" sparkle:deltaFrom="2" length="681146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cphdPhetnk2h5w3Y/HDpQW7/Kz+fUDAYTm9iOW6JHK6qQbF5Fze8TzgMmheg5l49S5XNK9syp6eh6n5IItBdBw=="/>
                 <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.4/Stash5-1.delta" sparkle:deltaFrom="1" length="947222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nKyx4bykhrNkz/8liqfWm6PnJQlxfZhQ3tnOjnOHI8c25W+ickXzPDa6mxHfNnmwce9QTS1mwJLP80nm3QdMDA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Thu, 19 Feb 2026 13:38:54 +0000</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.5/Stash-1.0.3.zip" length="174188337" type="application/octet-stream" sparkle:edSignature="2fij/omuidhb2G+tl/2ZY9rF2GNu10egtkADUzmPfbK55Lrwu4YzuMvPOIf2nF2d+hlNLBdlnVemfa93/uf7Dg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.3/Stash4-3.delta" sparkle:deltaFrom="3" length="673646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tM7xj9T9gRxYaqoNjz8jDAc5iM6C9WfXacbzZJ4gEX4n3icYyvH5xTb7LBTgEZZ8doDwr5EIaEeHsUUVttW0Cw=="/>
-                <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.3/Stash4-2.delta" sparkle:deltaFrom="2" length="673330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AnBkcT0GJq6Fi2UCjPz1zSGP9jq1P/Jot9wNOt2E9tgG2IdNXZxUpRe5EFUFaQJwWFimQsxnw1M+i3hQvE1CDA=="/>
-                <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.3/Stash4-1.delta" sparkle:deltaFrom="1" length="938754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fIflPD26OUWGUeWGrrVj8io3Oav6H0Dor7LXRJnD+JSS+pXokhOdGF3VhLh3wcICxSTBdg4gqe6r82ixVojHDw=="/>
             </sparkle:deltas>
         </item>
     </channel>
