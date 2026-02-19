@@ -5,5 +5,13 @@
         <link>https://github.com/krissolling/stash-releases</link>
         <description>Stash app updates</description>
         <language>en</language>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 19 Feb 2026 11:23:29 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0/Stash-1.0.zip" length="173896675" type="application/octet-stream" sparkle:edSignature="Fm4RaMxQEShcyltOWFiIkeIz+4ZEjCkCcQG7CGpy/Dl2yfrz6Wf7VM6JejFHHZAjG/TBfexd0Ng18O5Y0DgXAg=="/>
+        </item>
     </channel>
 </rss>
