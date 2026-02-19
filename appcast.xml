@@ -6,12 +6,23 @@
         <description>Stash app updates</description>
         <language>en</language>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 19 Feb 2026 11:57:28 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.1/Stash-1.0.1.zip" length="174160954" type="application/octet-stream" sparkle:edSignature="d2g9bmNehMpY7gHyG1JwzsoSdMN4DFwg9gVXnznRB4JjrVE1BoVLvPQwmg7lshyhWzGPSgdR7PI59DLmKxJ0Cg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.1/Stash2-1.delta" sparkle:deltaFrom="1" length="282706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="w6/p4dEPCl19SBH1cy/pegye2fC49IvXJM1wKGoawC8ljBNgJqwHTlagNxAnFuwXxp8F2ZMzP1EPqy3bH0IbAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Thu, 19 Feb 2026 11:23:29 +0000</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0/Stash-1.0.zip" length="173896675" type="application/octet-stream" sparkle:edSignature="Fm4RaMxQEShcyltOWFiIkeIz+4ZEjCkCcQG7CGpy/Dl2yfrz6Wf7VM6JejFHHZAjG/TBfexd0Ng18O5Y0DgXAg=="/>
+            <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.1/Stash-1.0.zip" length="173896675" type="application/octet-stream" sparkle:edSignature="Fm4RaMxQEShcyltOWFiIkeIz+4ZEjCkCcQG7CGpy/Dl2yfrz6Wf7VM6JejFHHZAjG/TBfexd0Ng18O5Y0DgXAg=="/>
         </item>
     </channel>
 </rss>
