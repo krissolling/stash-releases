@@ -6,12 +6,23 @@
         <description>Stash app updates</description>
         <language>en</language>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Sun, 22 Feb 2026 13:35:18 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.3.0/Stash-1.3.0.zip" length="176942790" type="application/octet-stream" sparkle:edSignature="+EhbodHKiWw9fTre/oE+SZu2+zgNasLmgJrT1rHQApa0wL95nQGrU2GSqTKNr0zXmuLUUFvYT4cyqlS6AtZkCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.3.0/Stash11-10.delta" sparkle:deltaFrom="10" length="505554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6c+94xa8LxfOYTHVn6bEsrMllrAzmAthr4JRdG2/xHvXO01PueOjzgm4dQrAvpsOj+HCrhlBL0K1IQyf1U9tAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Sat, 21 Feb 2026 19:48:34 +0000</pubDate>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.2.0/Stash-1.2.0.zip" length="176930576" type="application/octet-stream" sparkle:edSignature="UNi+iVqyCmzy5+0kdZ6hsJLqL6a5oG5eQMdt2HpX2qclvnivUpjfOlX2zfRLJLZhFVfhZPJEd/s3dsguyQ5FBw=="/>
+            <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.3.0/Stash-1.2.0.zip" length="176930576" type="application/octet-stream" sparkle:edSignature="UNi+iVqyCmzy5+0kdZ6hsJLqL6a5oG5eQMdt2HpX2qclvnivUpjfOlX2zfRLJLZhFVfhZPJEd/s3dsguyQ5FBw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.2.0/Stash10-9.delta" sparkle:deltaFrom="9" length="382990" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dayLNYOvYz9vv68GYGDjkHKDPg65B5mbt+GOcweBiiWhfe7MXO9JaqPdNDujsFIWcHNzBZl+XOhJ2y4npv8gCQ=="/>
             </sparkle:deltas>
@@ -25,17 +36,6 @@
             <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.2.0/Stash-1.1.0.zip" length="176930295" type="application/octet-stream" sparkle:edSignature="kWargRhCJe3XeOQLeT3GkWMcHtF//JOJd9D68IIBz7rSzANSsCEvWVK/2+2+kRJDjuAuE0ANXNYdlYg01QR0CQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.1.0/Stash9-8.delta" sparkle:deltaFrom="8" length="3730806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+nZOO8qsfr1lgYH5p/mIqu5dHXPlC24gMlJ+FpCzPBNn9e4coTGZU2tpC8hY6cn9BkfBS1BYZsDZgvUtvsfTBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.7</title>
-            <pubDate>Thu, 19 Feb 2026 20:17:11 +0000</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.1.0/Stash-1.0.7.zip" length="174318047" type="application/octet-stream" sparkle:edSignature="6HGPKDlfRUAXxU3VaImUFspm9aqBI2L5dqmTXilXPPmjBziuyFeyv81XV9QW/OeLzaORX7lW5i3M7M5adMxLBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/krissolling/stash-releases/releases/download/v1.0.7/Stash8-7.delta" sparkle:deltaFrom="7" length="454598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tmXSnR7gPm20CW3/2iB7oyJmtoaWEhgru5GYNHzxKuqTY5lTMIthwhvl65UhOERjmSpa06U8m5CH0rbN0VvfBw=="/>
             </sparkle:deltas>
         </item>
     </channel>
